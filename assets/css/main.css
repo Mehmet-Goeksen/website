@@ -2615,7 +2615,7 @@ input, select, textarea {
 			}
 
 	.logo {
-		width: 80% !important;
+		/*width: 80% !important;*/
 		height: auto !important;
 	}
 
