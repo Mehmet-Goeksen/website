@@ -86,7 +86,7 @@
 							initialize: function() {
 
 								// Deactivate section.
-									$section.addClass('inactive');
+									// $section.addClass('inactive');
 
 							},
 							enter: function() {
