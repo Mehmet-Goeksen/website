@@ -2619,6 +2619,13 @@ input, select, textarea {
 		height: auto !important;
 	}
 
+	.image2 {
+		width: 100% !important;
+		height: auto !important;
+		padding-bottom: 0 !important;
+		margin-bottom: 0 !important;
+	}
+
 /* List */
 
 	ol {

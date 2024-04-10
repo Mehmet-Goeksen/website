@@ -446,9 +446,7 @@
 
 								i.removeClass('polyfill-placeholder');
 								i.val('');
-
 							}
-
 						});
 
 				})
